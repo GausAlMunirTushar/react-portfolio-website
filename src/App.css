@@ -3,3 +3,9 @@
 .outlineBtn {
     @apply px-4 py-2 bg-transparent border border-primary text-primary rounded hover:bg-primary hover:text-white transition-all duration-300
 }
+.btn-primary {
+    @apply bg-primary px-4 py-3 text-white hover:bg-body hover:-translate-y-4 transition-all duration-200 rounded-md text-xl
+}
+.skill-card:nth-child(1) {
+    border-bottom: 4px solid #5e3bee;
+}

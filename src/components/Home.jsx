@@ -19,7 +19,7 @@ const Home = () => {
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                         Suspendisse varius enim in eros elementum tristique.
                     </p>
-                    <button className="bg-primary px-4 py-3 text-white hover:bg-body hover:-translate-y-4 transition-all duration-200 rounded-md text-xl">Get In Touch</button>
+                    <button className="btn-primary">Get In Touch</button>
                 </div>
 
             </div>
